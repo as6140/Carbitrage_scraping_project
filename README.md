@@ -1,2 +1,2 @@
 # Carbitrage_scraping_project
-scrape data to find underpriced cars to flip
+Using selenium web scraping library to find underpriced cars online to buy or flip.
